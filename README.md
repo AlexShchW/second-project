@@ -6,7 +6,7 @@
 * git add - prepare for commit
 * git commit -m - commit with message 
 
-## main git commands for working with remote repozitory
-* git remote add origin git@github.com:AlexShchW/second-project.git
+## main git commands for working with remote repository
+* git remote add origin git@github.com:AlexShchW/second-project.git - connect local to remote
 * git push -u origin master/main - first time push 
 * git push - push (duh)
