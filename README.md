@@ -10,3 +10,8 @@
 * git remote add origin git@github.com:AlexShchW/second-project.git - connect local to remote
 * git push -u origin master/main - first time push 
 * git push - push (duh)
+
+
+## other info 
+* HEAD - points to latest commit 
+* git log - get info about commits 
