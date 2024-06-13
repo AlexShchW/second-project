@@ -12,6 +12,14 @@
 * git push - push (duh)
 
 
+## possible status 
+* untracked - untracked
+* tracked - tracked 
+* modified - modified, not staged 
+* staged - ready to be commited 
+
+Also, modified (or new file) + add file = staged file 
+
 ## other info 
 * HEAD - points to latest commit 
 * git log - get info about commits 
